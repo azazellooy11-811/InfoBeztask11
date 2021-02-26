@@ -1,0 +1,13 @@
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\bin\Debug\netcoreapp3.1\InfoBezZ1.exe
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\bin\Debug\netcoreapp3.1\InfoBezZ1.deps.json
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\bin\Debug\netcoreapp3.1\InfoBezZ1.runtimeconfig.json
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\bin\Debug\netcoreapp3.1\InfoBezZ1.runtimeconfig.dev.json
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\bin\Debug\netcoreapp3.1\InfoBezZ1.dll
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\bin\Debug\netcoreapp3.1\InfoBezZ1.pdb
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\obj\Debug\netcoreapp3.1\InfoBezZ1.csprojAssemblyReference.cache
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\obj\Debug\netcoreapp3.1\InfoBezZ1.AssemblyInfoInputs.cache
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\obj\Debug\netcoreapp3.1\InfoBezZ1.AssemblyInfo.cs
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\obj\Debug\netcoreapp3.1\InfoBezZ1.csproj.CoreCompileInputs.cache
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\obj\Debug\netcoreapp3.1\InfoBezZ1.dll
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\obj\Debug\netcoreapp3.1\InfoBezZ1.pdb
+C:\Users\MI\source\repos\InfoBezZ1\InfoBezZ1\obj\Debug\netcoreapp3.1\InfoBezZ1.genruntimeconfig.cache
